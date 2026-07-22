@@ -24,7 +24,7 @@ module.exports.config = {
     name: "baby",
     aliases: ["bby", "bbu", "jan", "janu", "hubby", "bot", "naruto", "naru"],
     version: "1.7",
-    author: "MahMUD",
+    author: "𝗧𝗮𝗶𝗺",
     countDown: 0,
     role: 0,
     description: "better then all sim simi & most fastest",
