@@ -4,11 +4,12 @@
 
 <h1 align="center">
   <img src="https://i.imgur.com/ZfuZrPc.jpeg" width="28px" alt="icon">
-  Hinata Bot — Facebook Messenger Chatbot by MahMUD
+  Na Ru To Bot — Facebook Messenger Chatbot by Taîm
 </h1>
 
 <p align="center">
-  <b>• Facebook Messenger Bot | Auto Reply Bot | AI Chatbot | Hinata Bot V3</b><br>
+  <b>• Facebook Messenger Bot |
+    Auto Reply Bot | AI Chatbot | Na Ru To Bot v3</b><br>
   <i>A powerful, free, open-source Facebook Messenger bot built with Node.js</i>
 </p>
 
