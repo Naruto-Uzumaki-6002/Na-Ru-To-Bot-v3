@@ -3,7 +3,7 @@ module.exports = {
                 name: "inbox",
                 aliases: ["in", "ইনবক্স"],
                 version: "1.7",
-                author: "MahMUD",
+                author: "𝗧𝗮𝗶𝗺",
                 countDown: 5,
                 role: 0,
                 description: {
@@ -23,17 +23,17 @@ module.exports = {
                 bn: {
                         reply: "বেবি তোমার ইনবক্স চেক করো 🐤",
                         inboxMsg: "হাই বেবি 😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact 𝗧𝗮𝗶𝗺 ।"
                 },
                 en: {
                         reply: "Baby, check your inbox 🐤",
                         inboxMsg: "Hi baby 😘",
-                        error: "× API error: %1. Contact MahMUD for help."
+                        error: "× API error: %1. Contact 𝗧𝗮𝗶𝗺 for help."
                 },
                 vi: {
                         reply: "Cưng ơi, kiểm tra hộp thư đến nhé 🐤",
                         inboxMsg: "Chào cưng 😘",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ."
+                        error: "× Lỗi: %1. Liên hệ 𝗧𝗮𝗶𝗺 để hỗ trợ."
                 }
         },
 
