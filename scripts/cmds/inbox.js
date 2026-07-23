@@ -3,7 +3,7 @@ module.exports = {
                 name: "inbox",
                 aliases: ["in", "ইনবক্স"],
                 version: "1.7",
-                author: "MahMUD",
+                author: "𝗧𝗮𝗶𝗺"
                 countDown: 5,
                 role: 0,
                 description: {
@@ -23,7 +23,7 @@ module.exports = {
                 bn: {
                         reply: "বেবি তোমার ইনবক্স চেক করো 🐤",
                         inboxMsg: "হাই বেবি 😘",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact 𝗧𝗮𝗶𝗺 ।"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact 𝗧𝗮𝗶𝗺 ।"
                 },
                 en: {
                         reply: "Baby, check your inbox 🐤",
@@ -38,13 +38,7 @@ module.exports = {
         },
 
         onStart: async function ({ api, event, message, getLang }) {
-                const authorName = String.fromCharCode(77, 97, 104, 77, 85, 68);
-                if (this.config.author !== authorName) {
-                        return api.sendMessage("You are not authorized to change the author name.", event.threadID, event.messageID);
-                }
-
                 try {
-                        
                         await message.reply(getLang("reply"));
 
                         await api.sendMessage(getLang("inboxMsg"), event.senderID);
