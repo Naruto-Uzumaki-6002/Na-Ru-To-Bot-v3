@@ -2,7 +2,7 @@ module.exports = {
         config: {
                 name: "inbox",
                 aliases: ["in", "ইনবক্স"],
-                version: "1.7",
+                version: "2.0",
                 author: "𝗧𝗮𝗶𝗺",
                 countDown: 5,
                 role: 0,
@@ -27,7 +27,7 @@ module.exports = {
                 },
                 en: {
                         reply: "Baby, check your inbox 🐤",
-                        inboxMsg: "Hi baby 😘",
+                        inboxMsg: "Hi baby 😘 \n g ",
                         error: "× API error: %1. Contact 𝗧𝗮𝗶𝗺 for help."
                 },
                 vi: {
