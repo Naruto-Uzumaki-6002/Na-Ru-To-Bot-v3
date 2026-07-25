@@ -27,7 +27,7 @@ module.exports = {
                 },
                 en: {
                         reply: "Baby, check your inbox 🐤",
-                        inboxMsg: "Hi baby 😘 \nNaw amar boss ar id \nhttps://www.facebook.com/MD.Taim.Talukder.2008?from_xma_click=1 ",
+                        inboxMsg: "Hi baby 😘 \nNaw amar boss ar id \nhttps://www.facebook.com/profile.php?id=61578289950712 ",
                         error: "× API error: %1. Contact 𝗧𝗮𝗶𝗺 for help."
                 },
                 vi: {
