@@ -1,5 +1,5 @@
 // set bash title
-process.stdout.write("\x1b]2;Hinata Bot V3 - Made by MahMUD\x1b\x5c");
+process.stdout.write("\x1b]2;Naruto Bot V3 - Made by Taim\x1b\x5c");
 const defaultRequire = require;
 
 function decode(text) {
@@ -112,8 +112,8 @@ if (subTitle.length > maxWidth) {
 else {
 	subTitleArray.push(subTitle);
 }
-const modified = ("• Modified & Fca fix by MahMUD");
-const srcUrl = ("• Source code: https://github.com/mahmudx7/Hinata-Bot-v3");
+const modified = ("• Modified & Fca fix by Taim");
+const srcUrl = ("• Source code: https://github.com/Naruto-Uzumaki-6002/Na-Ru-To-Bot-v3");
 const fakeRelease = ("ALL VERSIONS NOT RELEASED HERE ARE FAKE");
 for (const t of subTitleArray) {
 	const textColor2 = gradient("#9F98E8", "#AFF6CF")(t);
